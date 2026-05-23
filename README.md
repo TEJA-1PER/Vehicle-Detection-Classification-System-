@@ -205,7 +205,7 @@ python Main1.py --input inputVideos/bridge.mp4 --output outputVideos/output.avi 
 ## Teja Chinthakindi
 
 📧 Email: tejachinthakindi005@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/chinthakindi-teja  
+💼 LinkedIn: [https://www.linkedin.com/in/chinthakindi-teja](https://www.linkedin.com/in/chinthakindi-teja-14a64b300/)  
 🐙 GitHub: https://github.com/TEJA-1PER
 
 ---
